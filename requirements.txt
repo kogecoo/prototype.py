@@ -1,0 +1,1 @@
+python-parallel-collections>=1.2.1
